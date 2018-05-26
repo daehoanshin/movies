@@ -11,4 +11,3 @@
   * web/mustache/dev-tools
 * "Hello World" welcome 페이지
 * live reload chrome extension 설치
-git remote add origin https://github.com/daehoanshin/movies.git
