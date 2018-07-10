@@ -1,0 +1,13 @@
+## JSON
+[
+  {"no" : "나", "name" : "정형돈", "job" : "개그맨"},
+  {"no" : "다", "name" : "유재석", "job" : "개그맨"},
+  {"no" : "라", "name" : "노홍철", "job" : "방송인"},
+]
+
+## XML
+<xml version='1.0'>
+  <info><no>나</no><name>정형돈</name><job>개그맨</job></info>
+  <info><no>다</no><name>유재석</name><job>개그맨</job></info>
+  <info><no>라</no><name>노홍철</name><job>방송인</job></info>
+</xml>
