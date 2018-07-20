@@ -1,9 +1,14 @@
 #!/bin/sh
 
+echo "Welcome My Shell"
+
+TOMCAT_HOME=~/javaDev/apps/tomcat
+
 cd ~/my-slipp
 git pull
 ./mvnw clean package
-~/javaDev/apps/tomcat/bin/shutdown.sh
+$TOMCAT_HOME/bin/shutdown.sh
 cd target
-mv my-slipp-1.0 ~/javaDev/apps/tomcat/webapps/ROOT
-~/javaDev/apps/tomcat/bin/startup.sh
+rm -rf $TOMCAT_HOME/webapps/ROOT
+mv my-slipp-1.0 $TOMCAT_HOME/webapps/ROOT
+$TOMCAT_HOME/bin/startup.sh

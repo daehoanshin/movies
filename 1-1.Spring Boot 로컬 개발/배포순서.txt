@@ -1,0 +1,7 @@
+## 배포 순서
+  * git pull
+  * 메이븐 빌드(mvnw clean package)
+  * tomcat 서버 종료
+  * tomcat/webapps/ROOT 삭제
+  * 빌드한 산출물을 tomcat/webapps/ROOT로 이동
+  * tomcat 서버 시작
