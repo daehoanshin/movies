@@ -1,0 +1,8 @@
+To do list
+* maven에 wtp 설정 및 빌드
+* hello jsp 파일 생성
+* wtp 프로젝트 배포
+
+----
+Done
+*

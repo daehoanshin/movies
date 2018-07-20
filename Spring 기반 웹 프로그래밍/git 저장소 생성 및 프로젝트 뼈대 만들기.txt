@@ -1,0 +1,8 @@
+To do list
+
+ ----
+ Done
+ * git 저장소 생성
+ * eclipse와 git 연동
+ * eclipse에서 maven 프로젝트 생성
+ * maven 설정

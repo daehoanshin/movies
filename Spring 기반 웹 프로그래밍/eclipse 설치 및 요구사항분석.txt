@@ -1,0 +1,8 @@
+To do list
+
+----
+
+Done
+* spring tool suite 버젼 설치 및 설정
+* 요구사항 분석
+* jdk 8 버전 설치 및 확인
