@@ -1,0 +1,7 @@
+To do list
+
+----
+Done
+
+* 메인 페이지 개발
+* css, javascript image 적용을 위한 spring mvc 설정
