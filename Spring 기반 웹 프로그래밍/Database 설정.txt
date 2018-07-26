@@ -1,0 +1,10 @@
+To do list
+* 데이터베이스 설치
+* Connection Pooling 설정
+* 테이블 설계
+
+* 테이블 스키마 초기화
+* UserDao 구현
+
+----
+Done
