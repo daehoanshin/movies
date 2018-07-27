@@ -1,4 +1,8 @@
 To do list
+
+----
+Done
+
 * 데이터베이스 설치
 * Connection Pooling 설정
 * 테이블 설계
@@ -6,5 +10,5 @@ To do list
 * 테이블 스키마 초기화
 * UserDao 구현
 
-----
-Done
+preparetestmin
+${is1:importStatic('org.hamcrest.CoreMatchers.*')}${is2:importStatic('org.junit.Assert.*')}
