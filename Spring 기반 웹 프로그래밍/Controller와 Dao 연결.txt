@@ -1,0 +1,10 @@
+To do list
+
+----
+Done
+* web.xml에 applicationContext.xml 로딩하도록 설정
+* UserController와 UserDao 의존관계 설정
+
+----
+동영상 사용 코드
+  <context:annotation-config />
