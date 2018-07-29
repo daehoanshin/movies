@@ -1,0 +1,28 @@
+To do list
+
+----
+Done
+* validation 라이브러리 추가
+* validation annotation 처리
+* 에러 메시지 처리
+
+https://www.journaldev.com/2668/spring-validation-example-mvc-validator
+----
+동영상 사용 코드
+<dependency>
+	<groupId>javax.validation</groupId>
+	<artifactId>validation-api</artifactId>
+	<version>1.1.0.Final</version>
+</dependency>
+<dependency>
+	<groupId>org.hibernate</groupId>
+	<artifactId>hibernate-validator</artifactId>
+	<version>5.1.0.Final</version>
+</dependency>
+
+Size.user.userId=User {0} should be between {2} and {1} characters long
+NotEmpty.user.userId=User {0} is required
+
+Size.user.password=User password {0} should be between {2} and {1} characters long
+NotEmpty.user.password=User {0} is required
+NotEmpty.user.name=User {0} is required
