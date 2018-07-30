@@ -26,3 +26,7 @@ NotEmpty.user.userId=User {0} is required
 Size.user.password=User password {0} should be between {2} and {1} characters long
 NotEmpty.user.password=User {0} is required
 NotEmpty.user.name=User {0} is required
+
+https://www.journaldev.com/2610
+
+http://hibernate.org/validator/documentation/getting-started/
