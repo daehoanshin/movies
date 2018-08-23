@@ -1,0 +1,5 @@
+sudo add-apt-repository ppa:hodong/nimf
+sudo apt-get update
+sudo apt install nimf nimf-libhangul
+
+im-config -n nimf
